@@ -1,4 +1,4 @@
-# Some of the lessons and files for DAT-119, Python 1, Fall 2019
+# Some of the lessons and files for DAT-119, Python 1, Spring 2020
 
 ## Table of contents:
 
