@@ -168,6 +168,7 @@ def break_into_list_of_words(string):
         list_of_words[index] = list_of_words[index].strip(",")
         list_of_words[index] = list_of_words[index].strip("!")
         list_of_words[index] = list_of_words[index].strip("'")
+        list_of_words[index] = list_of_words[index].strip("’")
     return list_of_words
     # ^^^ YOU DO NOT HAVE TO CHANGE ANYTHING IN HERE ^^^
 

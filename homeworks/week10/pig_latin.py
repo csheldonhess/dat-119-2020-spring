@@ -12,6 +12,7 @@ import string
 def main():
     # get the text from the file
     prejudice = get_text('prejudice.txt')
+    
     # prove to ourselves that it worked
     print(word_list)
 
